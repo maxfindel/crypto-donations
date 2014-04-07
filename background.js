@@ -13,7 +13,7 @@ while(last==true||(i<100&&last&&last.html())){
 		full_str = last.html().substr(start, (end+end_criteria.length))
 		// If there is a string to replace, we go ahead. 100 is just a safe length
 		if(full_str&&full_str.length>0&&full_str.length<100){
-			// We find the address and amount
+			// We find the currency, address and amount
 			str = full_str
 			currency_init = str.indexOf("[")
 			currency_end = str.indexOf("]", currency_init)
