@@ -1,8 +1,9 @@
 {
   "manifest_version": 2,
   "name": "Crypto Donations",
+  "short_name": "crypto-donations",
   "version": "0.1",
-  "description": "This is a simple chrome extension to enable micro-donations in different crypto-currencies like Bitcoin or Dogecoin with a simple sytax in any blog or website: #DONATE#[DOGE][DP875D1fhq76trrZ9dxvt5tjQjKEB4FXVg](100)|",
+  "description": "Crypto Donations enables you to do micro-donations using crypto-currencies like Dogecoin with a simple syntax in any blog or website",
   "icons": { "16": "crypto-16.png", "128": "crypto-128.png" },
   "content_scripts": [
 	{   

@@ -2,8 +2,9 @@
 var search_criteria = "#DONATE#";
 var end_criteria = "|";
 var i = 0;
-var last = $('body');
-while(last&&last.html()){
+var last = true;
+// The limit is set to 100 so it doesn't get into any loops by chance
+while(last==true||(i<100&&last&&last.html())){
 	last = $('*:contains("'+search_criteria+'")').last()
 	if(last&&last.html()){
 		// We get the full string to replace
@@ -38,8 +39,8 @@ while(last&&last.html()){
 				last.html(last.html().replace(full_str, new_div[0].outerHTML))
 			}
 		}
-		i++;
 	}
+	i++;
 }
 // Now we generate the link or later a widget
 $('.crypto-donations').each(function(){
