@@ -9,7 +9,14 @@ An example of the syntax would be:
 And if someone has the extension installed, it renders:  
 ![btn-sample](./btn-sample.jpg)
 
-More information in the [chrome webstore](https://chrome.google.com/webstore/detail/crypto-donations/afkhlmigbmhkbmbgpkponijjglknggne). 
+More information in the [Google Chrome Web Store](https://chrome.google.com/webstore/detail/crypto-donations/afkhlmigbmhkbmbgpkponijjglknggne). 
+
+###Pending Tasks
+
+* Add ajax request to blockchain to calculate total amount donated
+* Add QR to donate from the phone
+* Add better styles
+* Add local storage to store Adresses & create buttons with hotkeys
 
 ###Wanna Collaborate?
 
