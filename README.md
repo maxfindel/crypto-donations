@@ -13,6 +13,7 @@ More information in the [Google Chrome Web Store](https://chrome.google.com/webs
 
 ###Pending Tasks
 
+* Add "Copy to clipboard" button
 * Add ajax request to blockchain to calculate total amount donated
 * Add QR to donate from the phone
 * Add better styles
