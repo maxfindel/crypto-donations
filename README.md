@@ -1,6 +1,8 @@
 Crypto Donations
 ================
 
+**NOTICE: Well today June 6 2014 I got a beta invite to [Cryptiv.com](http://cryptiv.com/) and it blew my mind. They do everything I wanted to do and moar with their Chrome Extension. They even promoted it on reddit and got thousands of comments. Well done, I'm out :)**
+  
 Crypto Donations is a *Chrome Extension* that enables you turn simple "code" (or syntax) into a donation button. This gives you the posibility to do micro-donations using crypto-currencies like Dogecoin in any blog or website.
 
 An example of the syntax would be:  
