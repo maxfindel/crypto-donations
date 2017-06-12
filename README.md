@@ -1,7 +1,7 @@
 Crypto Donations
 ================
 
-![usage-sample](./usage-sample.jpg)
+![usage-sample](./usage-sample.png)
 
 **NOTICE: Well today June 6 2014 I got a beta invite to [Cryptiv.com](http://cryptiv.com/) and it blew my mind. They do everything I wanted to crypto-donations to do and more with their Chrome Extension.**
   
