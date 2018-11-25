@@ -28,7 +28,7 @@ If you want to collaborate just clone this repo, install it and send me a pull r
 
 You can install it by going to chrome://extensions and selecting "Load Unpacked Extension".
 
-Any questions rise an [issue](https://github.com/maxfindel/crypto-donations/issues) in GitHub or reach out to me at [LinkedIn](https://www.linkedin.com/in/maxfindel).
+Any questions rise an [issue](https://github.com/maxfindel/crypto-donations/issues) in GitHub or reach out to me at [LinkedIn](https://cl.linkedin.com/in/maxfindel).
 
 ## Credits
 
